@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">Soporte Macrosystem</string>
+    <string name="app_name">Petagram</string>
     <string name="action_settings">Settings</string>
+    <string name="hola_mundo">Hola Mundo</string>
+    <string name="texto_boton_click">CLICK</string>
 </resources>
