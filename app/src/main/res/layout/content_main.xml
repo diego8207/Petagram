@@ -5,7 +5,9 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
-    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:background="@drawable/marciano_ajustado"
+    android:scaleType="matrix">
 
     <LinearLayout
         android:orientation="horizontal"
@@ -16,13 +18,13 @@
         <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Usuario"
+        android:text="@string/usuario"
         android:id="@+id/lblBuscador" />
 
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:hint="Usuario"
+            android:hint="@string/usuarioview"
             android:background="@android:drawable/editbox_background"
             android:id="@+id/txtUsuario"
             android:layout_weight="1" />
@@ -30,13 +32,13 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Password"
+            android:text="@string/password"
             android:id="@+id/lblClave" />
 
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:hint="Password"
+            android:hint="@string/passwordview"
             android:background="@android:drawable/editbox_background"
             android:id="@+id/txtClave"
             android:layout_weight="1" />

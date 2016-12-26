@@ -8,7 +8,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="co.macrosystem.soportemacrosystem.Main_petagram">
+    tools:context="co.macrosystem.soportemacrosystem.Main_petagram"
+    android:background="@drawable/marciano_ajustado">
 
 
     <TextView
@@ -24,9 +25,9 @@
         android:layout_height="wrap_content"
         android:text="@string/texto_boton_click"
         android:theme="@style/MiBotonRaise"
+        android:layout_marginTop="12dp"
         android:layout_below="@+id/tvTitulo"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="71dp" />
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>
