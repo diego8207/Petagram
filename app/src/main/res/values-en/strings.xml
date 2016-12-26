@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Petagram English</string>
+    <string name="action_settings">Settings</string>
+    <string name="hola_mundo">Hello World</string>
+    <string name="texto_boton_click">CLICK ENGLISH</string>
+    <string name="listar_usuarios">Users List</string>
+    <string name="validar_usuarios">User Validate</string>
+</resources>

@@ -3,4 +3,6 @@
     <string name="action_settings">Settings</string>
     <string name="hola_mundo">Hola Mundo</string>
     <string name="texto_boton_click">CLICK</string>
+    <string name="listar_usuarios">Listar Usuarios</string>
+    <string name="validar_usuarios">Validar Usuarios</string>
 </resources>

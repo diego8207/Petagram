@@ -50,7 +50,7 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Listar Usuarios"
+            android:text="@string/listar_usuarios"
             android:id="@+id/btnConsumir"
             android:layout_alignParentLeft="true"
             android:theme="@style/MiBotonRaise"/>
@@ -58,7 +58,7 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Validar Usuarios"
+            android:text="@string/validar_usuarios"
             android:id="@+id/btnConsumirValidar"
             android:layout_alignParentRight="true"
             android:theme="@style/MiBotonRaise"/>
