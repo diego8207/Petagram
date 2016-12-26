@@ -6,8 +6,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
-    android:background="@drawable/marciano_ajustado"
-    android:scaleType="matrix">
+    android:background="@drawable/marciano_ajustado">
 
     <LinearLayout
         android:orientation="horizontal"
