@@ -52,14 +52,16 @@
             android:layout_height="wrap_content"
             android:text="Listar Usuarios"
             android:id="@+id/btnConsumir"
-            android:layout_alignParentLeft="true"/>
+            android:layout_alignParentLeft="true"
+            android:theme="@style/MiBotonRaise"/>
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Validar Usuarios"
             android:id="@+id/btnConsumirValidar"
-            android:layout_alignParentRight="true"/>
+            android:layout_alignParentRight="true"
+            android:theme="@style/MiBotonRaise"/>
 
     </RelativeLayout>
 

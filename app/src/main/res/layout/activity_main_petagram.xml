@@ -21,8 +21,10 @@
         android:id="@+id/btnMiBoton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/tvTitulo"
         android:text="@string/texto_boton_click"
-        android:theme="@style/MiBotonRaise"/>
+        android:theme="@style/MiBotonRaise"
+        android:layout_below="@+id/tvTitulo"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>
