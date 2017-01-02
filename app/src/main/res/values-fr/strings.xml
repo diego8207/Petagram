@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Petagram French</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hola_mundo">Bonjour le monde</string>
+    <string name="texto_boton_click">CLICK FRANÇAIS</string>
+    <string name="listar_usuarios">Liste des utilisateurs</string>
+    <string name="validar_usuarios">Utilisateur Valider</string>
+</resources>

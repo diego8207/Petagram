@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pentagram Deutsch</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="hola_mundo">Hallo Welt</string>
+    <string name="texto_boton_click">CLICK DEUTSCH</string>
+    <string name="listar_usuarios">Benutzerliste</string>
+    <string name="validar_usuarios">Benutzer-Validierung</string>
+</resources>
